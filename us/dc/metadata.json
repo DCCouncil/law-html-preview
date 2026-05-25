@@ -1,34 +1,31 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-05-12",
-      "ci-build-number": "1.0.127",
-      "ci-project": "test/DCCouncil-law-xml",
+      "build-date": "2026-05-21",
+      "ci-build-number": "1.0.965",
+      "ci-project": "DCCouncil/law-xml",
       "codified-date": "2026-04-29",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.8.dev255"
+        "version": "2.12.10"
       },
       "repositories": [
         {
-          "commit": "a6eba340415a7ee117996fe16271ffa3ce4ed62d",
+          "commit": "f34c648a89fb43c3bbf4cf5532d6747965125cc1",
           "name": "DCCouncil/law-xml"
         },
         {
-          "commit": "ea27681d570e9c05b0ee1cc78b3728848432c76f",
+          "commit": "c2f87a045dd59584eabf9ed1a6b14110c1b8022d",
           "name": "DCCouncil/law-xml-codified-preview"
         }
-      ],
-      "search": {
-        "version": "v2"
-      }
+      ]
     },
     "canonical-urls": {
       "html": "https://code.dccouncil.gov",
-      "html-bulk": "https://github.com/oll-test-repos/DCCouncil-law-html",
-      "law-git": "https://github.com/oll-test-repos/DCCouncil-law.git",
-      "static-assets": "https://github.com/oll-test-repos/DCCouncil-law-static-assets",
-      "xml-bulk": "https://github.com/oll-test-repos/DCCouncil-law-xml"
+      "html-bulk": "https://github.com/dccouncil/law-html",
+      "law-git": "https://github.com/dccouncil/law.git",
+      "static-assets": "https://github.com/dccouncil/law-static-assets",
+      "xml-bulk": "https://github.com/dccouncil/law-xml"
     },
     "contact": {
       "email": "code@dccouncil.us"
