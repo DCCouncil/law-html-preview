@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-05-29",
-      "ci-build-number": "1.0.973",
+      "build-date": "2026-06-02",
+      "ci-build-number": "1.0.975",
       "ci-project": "DCCouncil/law-xml",
-      "codified-date": "2026-05-21",
+      "codified-date": "2026-05-30",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.14"
+        "version": "2.20.15"
       },
       "repositories": [
         {
-          "commit": "02c8bebad92a5860abab88007424c9223864a8db",
+          "commit": "2f546a894a54e7d1ec196e8440e8792a2476b4fd",
           "name": "DCCouncil/law-xml"
         },
         {
-          "commit": "6b76f3ace59b975f75e1e9ba758ac219a316a28a",
+          "commit": "2d1df1c8fbeaef781acb809857e6d03d113d8612",
           "name": "DCCouncil/law-xml-codified-preview"
         }
       ],
